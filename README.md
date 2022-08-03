@@ -2,6 +2,8 @@
 
 **Method 1**
 
+multi-thread
+
 ```java
 @Component
 @EnableScheduling
